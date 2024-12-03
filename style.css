@@ -1,0 +1,23 @@
+#div1{
+   height: 200px;
+   width: 200px;
+   border: 10px solid black;
+    padding: 20px;
+    background-color: indigo;
+}
+#div2{
+   height: 200px;
+   width: 200px;
+   border: solid black;
+   border-width: 20px 10px;
+   margin-left: 260px;
+   background-color: khaki;
+
+}
+#div3{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin-left: 40px;
+    background-color: yellowgreen;
+}
